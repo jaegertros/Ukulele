@@ -1,0 +1,1 @@
+chrome-extension://mpiodijhokgodhhofbcjdecpffjipkle/extension/lib/single-file/index.js

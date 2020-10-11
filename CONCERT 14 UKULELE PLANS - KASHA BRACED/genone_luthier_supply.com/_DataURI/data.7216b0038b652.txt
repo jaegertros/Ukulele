@@ -1,0 +1,1 @@
+chrome-extension://mpiodijhokgodhhofbcjdecpffjipkle/lib/single-file/processors/hooks/content/content-hooks-web.js

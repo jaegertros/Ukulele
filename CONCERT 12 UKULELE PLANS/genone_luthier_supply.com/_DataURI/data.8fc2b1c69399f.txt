@@ -1,0 +1,1 @@
+chrome-extension://mpiodijhokgodhhofbcjdecpffjipkle/common/ui/content/content-infobar-web.js

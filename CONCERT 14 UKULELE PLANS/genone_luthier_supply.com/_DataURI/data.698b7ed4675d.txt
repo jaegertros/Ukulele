@@ -1,0 +1,1 @@
+chrome-extension://mpiodijhokgodhhofbcjdecpffjipkle/extension/core/content/content-bootstrap.js
